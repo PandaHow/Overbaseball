@@ -1,0 +1,34 @@
+/Users/apple/Desktop/BaseBall/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/apple/Desktop/BaseBall/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/apple/Desktop/BaseBall/obj/Debug/Assembly-CSharp.dll
+/Users/apple/Desktop/BaseBall/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/apple/Desktop/BaseBall/Temp/bin/Debug/UnityEngine.dll
+/Users/apple/Desktop/BaseBall/Temp/bin/Debug/UnityEditor.dll
+/Users/apple/Desktop/BaseBall/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/apple/Desktop/BaseBall/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/apple/Desktop/BaseBall/Temp/bin/Debug/Mono.Cecil.dll
+/Users/apple/Desktop/BaseBall/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/apple/Desktop/BaseBall/Temp/bin/Debug/Unity.DataContract.dll
+/Users/apple/Desktop/BaseBall/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/apple/Desktop/BaseBall/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/apple/Desktop/BaseBall/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/apple/Desktop/BaseBall/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/apple/Desktop/BaseBall/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/apple/Desktop/BaseBall/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/apple/Desktop/BaseBall 下午3.03.14/obj/Debug/Assembly-CSharp.dll
+/Users/apple/Desktop/BaseBall 下午3.03.14/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/apple/Desktop/BaseBall 下午3.03.14/Temp/bin/Debug/UnityEngine.dll
+/Users/apple/Desktop/BaseBall 下午3.03.14/Temp/bin/Debug/UnityEditor.dll
+/Users/apple/Desktop/BaseBall 下午3.03.14/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/apple/Desktop/BaseBall 下午3.03.14/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/apple/Desktop/BaseBall 下午3.03.14/Temp/bin/Debug/Mono.Cecil.dll
+/Users/apple/Desktop/BaseBall 下午3.03.14/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/apple/Desktop/BaseBall 下午3.03.14/Temp/bin/Debug/Unity.DataContract.dll
+/Users/apple/Desktop/BaseBall 下午3.03.14/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/apple/Desktop/BaseBall 下午3.03.14/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/apple/Desktop/BaseBall 下午3.03.14/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/apple/Desktop/BaseBall 下午3.03.14/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/apple/Desktop/BaseBall 下午3.03.14/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/apple/Desktop/BaseBall 下午3.03.14/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/apple/Desktop/BaseBall 下午3.03.14/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/apple/Desktop/BaseBall 下午3.03.14/Temp/bin/Debug/Assembly-CSharp.dll

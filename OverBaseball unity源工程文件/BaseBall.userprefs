@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/secondEnemyAI2.cs">
+    <Files>
+      <File FileName="Assets/Script/1stBoss/BossBullet.cs" Line="36" Column="34" />
+      <File FileName="Assets/Script/1stBoss/BossBulletExplosion.cs" Line="18" Column="17" />
+      <File FileName="Assets/Script/BallRebound.cs" Line="38" Column="48" />
+      <File FileName="Assets/Script/Player.cs" Line="112" Column="54" />
+      <File FileName="Assets/Script/1stBoss/BossController.cs" Line="57" Column="2" />
+      <File FileName="Assets/Script/1stBoss/BiggBallRandomRun.cs" Line="4" Column="34" />
+      <File FileName="Assets/Script/1stBoss/BossBottom.cs" Line="112" Column="46" />
+      <File FileName="Assets/Script/1stBoss/BossBulletFollow.cs" Line="8" Column="2" />
+      <File FileName="Assets/Script/Ball.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/PropertyManager.cs" Line="82" Column="76" />
+      <File FileName="Assets/secondEnemyAI2.cs" Line="13" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

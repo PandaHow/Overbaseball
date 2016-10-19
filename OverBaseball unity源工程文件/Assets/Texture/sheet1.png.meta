@@ -1,0 +1,1356 @@
+fileFormatVersion: 2
+guid: 3e011e945fa26432bae3ecbfa7768938
+timeCreated: 1468331936
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sheet1_0
+    21300002: sheet1_1
+    21300004: sheet1_2
+    21300006: sheet1_3
+    21300008: sheet1_4
+    21300010: sheet1_5
+    21300012: sheet1_6
+    21300014: sheet1_7
+    21300016: sheet1_8
+    21300018: sheet1_9
+    21300020: sheet1_10
+    21300022: sheet1_11
+    21300024: sheet1_12
+    21300026: sheet1_13
+    21300028: sheet1_14
+    21300030: sheet1_15
+    21300032: sheet1_16
+    21300034: sheet1_17
+    21300036: sheet1_18
+    21300038: sheet1_19
+    21300040: sheet1_20
+    21300042: sheet1_21
+    21300044: sheet1_22
+    21300046: sheet1_23
+    21300048: sheet1_24
+    21300050: sheet1_25
+    21300052: sheet1_26
+    21300054: sheet1_27
+    21300056: sheet1_28
+    21300058: sheet1_29
+    21300060: sheet1_30
+    21300062: sheet1_31
+    21300064: sheet1_32
+    21300066: sheet1_33
+    21300068: sheet1_34
+    21300070: sheet1_35
+    21300072: sheet1_36
+    21300074: sheet1_37
+    21300076: sheet1_38
+    21300078: sheet1_39
+    21300080: sheet1_40
+    21300082: sheet1_41
+    21300084: sheet1_42
+    21300086: sheet1_43
+    21300088: sheet1_44
+    21300090: sheet1_45
+    21300092: sheet1_46
+    21300094: sheet1_47
+    21300096: sheet1_48
+    21300098: sheet1_49
+    21300100: sheet1_50
+    21300102: sheet1_51
+    21300104: sheet1_52
+    21300106: sheet1_53
+    21300108: sheet1_54
+    21300110: sheet1_55
+    21300112: sheet1_56
+    21300114: sheet1_57
+    21300116: sheet1_58
+    21300118: sheet1_59
+    21300120: sheet1_60
+    21300122: sheet1_61
+    21300124: sheet1_62
+    21300126: sheet1_63
+    21300128: sheet1_64
+    21300130: sheet1_65
+    21300132: sheet1_67
+    21300134: sheet1_69
+    21300136: sheet1_71
+    21300138: sheet1_72
+    21300140: sheet1_73
+    21300142: sheet1_74
+    21300144: sheet1_75
+    21300146: sheet1_76
+    21300148: sheet1_77
+    21300150: sheet1_81
+    21300152: sheet1_82
+    21300154: sheet1_83
+    21300156: sheet1_84
+    21300158: sheet1_85
+    21300160: sheet1_86
+    21300162: sheet1_87
+    21300164: sheet1_88
+    21300166: sheet1_89
+    21300168: sheet1_90
+    21300170: sheet1_91
+    21300172: sheet1_92
+    21300174: sheet1_93
+    21300176: sheet1_94
+    21300178: sheet1_95
+    21300180: sheet1_96
+    21300182: sheet1_97
+    21300184: sheet1_98
+    21300186: sheet1_99
+    21300188: sheet1_100
+    21300190: sheet1_101
+    21300192: sheet1_102
+    21300194: sheet1_103
+    21300196: sheet1_104
+    21300198: sheet1_105
+    21300200: sheet1_106
+    21300202: sheet1_107
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sheet1_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 627
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 627
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 627
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 627
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 627
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 627
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_6
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 627
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_7
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 627
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 627
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 572
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 572
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 572
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 572
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_14
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 572
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 572
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_16
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 572
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_17
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 572
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_19
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 572
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_20
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 573
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_21
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 523
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 523
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 523
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 523
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 523
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_26
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 523
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_27
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 523
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_28
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 523
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_29
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 520
+        width: 56
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_30
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 514
+        width: 56
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_31
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 507
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 16.5}
+        - {x: -25.5, y: 16.5}
+        - {x: -25.5, y: 7.5}
+        - {x: -17.5, y: 1.5}
+        - {x: 18.5, y: -16.5}
+        - {x: 25.5, y: -16.5}
+        - {x: 25.5, y: -6.5}
+        - {x: -4.5, y: 14.5}
+    - name: sheet1_32
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 502
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 22}
+        - {x: -21.5, y: 22}
+        - {x: -21.5, y: 10}
+        - {x: 10.5, y: -22}
+        - {x: 21.5, y: -22}
+        - {x: 21.5, y: -11}
+        - {x: -5.5, y: 21}
+    - name: sheet1_33
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 498
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 25.5}
+        - {x: -16.5, y: 11.5}
+        - {x: 6.5, y: -25.5}
+        - {x: 16.5, y: -25.5}
+        - {x: 16.5, y: -12.5}
+        - {x: -6.5, y: 25.5}
+    - name: sheet1_34
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 495
+        width: 20
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_35
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 448
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 448
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 448
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_38
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 448
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_39
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 448
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_40
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 448
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_41
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 448
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_42
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 448
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_43
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 427
+        width: 59
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_44
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 333
+        width: 116
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 69}
+        - {x: -58, y: -69}
+        - {x: 58, y: -69}
+        - {x: 58, y: 69}
+    - name: sheet1_45
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 388
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_46
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 388
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_47
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 388
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_48
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 388
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_49
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 388
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_50
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 409
+        width: 141
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_51
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 410
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_52
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 405
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_53
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 405
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_54
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 386
+        width: 109
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_55
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 367
+        width: 109
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_56
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 323
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 31}
+        - {x: -20.5, y: 26}
+        - {x: -27.5, y: 14}
+        - {x: -27.5, y: -24}
+        - {x: -20.5, y: -31}
+        - {x: 14.5, y: -31}
+        - {x: 26.5, y: -26}
+        - {x: 27.5, y: -22}
+        - {x: 27.5, y: 10}
+        - {x: 10.5, y: 31}
+    - name: sheet1_57
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 344
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_58
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 344
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_59
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 344
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_60
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 344
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_61
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 346
+        width: 109
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_62
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 340
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_63
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 320
+        width: 11
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_64
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 323
+        width: 109
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_65
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 242
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 32.5}
+        - {x: -32.5, y: 18.5}
+        - {x: -32.5, y: -26.5}
+        - {x: -20.5, y: -32.5}
+        - {x: 31.5, y: -32.5}
+        - {x: 32.5, y: -30.5}
+        - {x: 32.5, y: 16.5}
+        - {x: 26.5, y: 32.5}
+      - - {x: 22.5, y: -14.5}
+        - {x: 23.5, y: -15.5}
+        - {x: 23.5, y: -14.5}
+        - {x: 16.5, y: -21.5}
+        - {x: 15.5, y: -21.5}
+    - name: sheet1_67
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 242
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 32.5}
+        - {x: -32.5, y: 18.5}
+        - {x: -32.5, y: -26.5}
+        - {x: -20.5, y: -32.5}
+        - {x: 31.5, y: -32.5}
+        - {x: 32.5, y: -30.5}
+        - {x: 32.5, y: 16.5}
+        - {x: 26.5, y: 32.5}
+      - - {x: 22.5, y: -14.5}
+        - {x: 23.5, y: -15.5}
+        - {x: 23.5, y: -14.5}
+        - {x: 16.5, y: -21.5}
+        - {x: 15.5, y: -21.5}
+    - name: sheet1_69
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 242
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 32.5}
+        - {x: -32, y: 23.5}
+        - {x: -32, y: -32.5}
+        - {x: 28, y: -32.5}
+        - {x: 32, y: -31.5}
+        - {x: 32, y: 20.5}
+        - {x: 19, y: 32.5}
+      - - {x: 23, y: -14.5}
+        - {x: 24, y: -15.5}
+        - {x: 24, y: -14.5}
+        - {x: 17, y: -21.5}
+        - {x: 16, y: -21.5}
+    - name: sheet1_71
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 302
+        width: 109
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_72
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 280
+        width: 109
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_73
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 263
+        width: 67
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_74
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 259
+        width: 109
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_75
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 178
+        width: 59
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: -36.5}
+        - {x: -19.5, y: -43.5}
+        - {x: 12.5, y: -43.5}
+        - {x: 29.5, y: -34.5}
+        - {x: 29.5, y: 23.5}
+        - {x: 24.5, y: 43.5}
+        - {x: -20.5, y: 43.5}
+        - {x: -29.5, y: 16.5}
+    - name: sheet1_76
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 263
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_77
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 263
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_81
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 240
+        width: 109
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_82
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 238
+        width: 86
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_83
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 213
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_84
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 192
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_85
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 14}
+        - {x: 13, y: 16}
+    - name: sheet1_86
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 203
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_87
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 203
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 151
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 26.5}
+        - {x: -29.5, y: 26.5}
+        - {x: -29.5, y: -10.5}
+        - {x: -19.5, y: -26.5}
+        - {x: 17.5, y: -26.5}
+        - {x: 29.5, y: -18.5}
+        - {x: 29.5, y: 7.5}
+        - {x: 19.5, y: 22.5}
+    - name: sheet1_89
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 191
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_90
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_91
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 203
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_92
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 203
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_93
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 201
+        width: 4
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_94
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 201
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_95
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 194
+        width: 40
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_96
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 193
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_97
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 176
+        width: 52
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_98
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 154
+        width: 77
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_99
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 129
+        width: 61
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_100
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 104
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_101
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 118
+        width: 434
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_102
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 79
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_103
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 58
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_104
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 41
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_105
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 201
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_106
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 201
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet1_107
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 194
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
